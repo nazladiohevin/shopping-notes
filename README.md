@@ -1,4 +1,4 @@
-# Contact App
+# Shopping Notes
 Shopping note application
 ## Getting Started
 ```
