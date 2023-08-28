@@ -1,5 +1,5 @@
 # Shopping Notes
-Shopping note application
+Shopping note application is building with Reactjs
 ## Getting Started
 ```
 pnpm install
